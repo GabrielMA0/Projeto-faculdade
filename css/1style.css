@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    padding: 0;
+ }
+.fundo-black{
+    background-color: #000;
+}
+.fundo-dark-slate-gray{
+    background-color: #2f4f4f;
+}
+.fundo-dim-gry{
+    background-color: #696969;
+}
+.fundo-light-slate-grey{
+    background-color: #778899;
+}
+.fundo-grey{
+    background-color: #bebebe;
+}
+.fundo-light-gray{
+    background-color: #d3d3d3;
+}
+.borda-solida-black-3px{
+    border-style:solid; border-width: 3px; border-color:#000;
+}
+.borda-solida-dark-slate-gray-3px{
+    border-style: solid; border-width: 3px; border-color:#2f4f4f;
+}
+.borda-solida-dim-gry-3px{
+    border-style: solid; border-width: 3px; border-color:#696969;
+}
+.borda-solida-light-slate-grey-3px{
+    border-style:solid; border-width: 1px; border-color:#778899;
+}
+.fonte{
+    color: #d3d3d3;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.fonte2{
+    color: #ffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.fonte3{
+    color: #696969;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.espaço{
+    word-spacing: 20px;
+}
+.definições-da-imagem-um{
+    border-style: solid; border-width: 3px; border-color:#2f4f4f;
+    height: 600px;
+    width: 1220px;
+    margin: 50px auto;
+    border-radius: 20px;
+    padding: 40px;
+}
+.definições-da-imagem-dois{
+    border-style: solid; border-width: 3px; border-color:#2f4f4f;
+    height: 400px;
+    width: 1220px;
+    margin: 50px auto;
+    border-radius: 20px;
+    padding: 40px;
+}
+.definições-da-nav{
+    background-color: #000;
+    border-style: solid; border-width: 3px; border-color:#000;
+    height: 30px;
+}
+.ladoalado{
+    display: flex; /* coloca as imagens uma ao lado da outra */
+    justify-content: center; /* alinha as imagens no centro da tela */
+}
+.img{
+    border-radius: 8%;
+    width:640px;
+    height: 427px;
+    border: solid #2f4f4f;
+    float: right;
+}
+.definições-da-imagem-institucional{
+    border-style: solid; border-width: 3px; border-color:#2f4f4f;
+    height: 450px;
+    width: 1220px;
+    margin: 50px auto;
+    border-radius: 20px;
+    padding: 40px;
+}
